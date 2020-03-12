@@ -1,5 +1,7 @@
 # ksql-test-runner
 
+Confluent's ksql-test-runner packaged in a docker container
+
 To build and run the test 
 
 ```
